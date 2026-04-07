@@ -26,8 +26,7 @@ The **Mushroom Classifier** allows users to input different characteristics of a
 4. The final result is displayed as:
    - 🍽️ **Edible**
    - ☠️ **Poisonous**
-  
-![image alt](https://github.com/mariam123-0/Mushroom-Classifier-/blob/3fad158ae65144c477586a1bda22c4f2d32a1887/mushroom%20classifier/process.png)
+  ![image alt](https://github.com/mariam123-0/Mushroom-Classifier-/blob/3fad158ae65144c477586a1bda22c4f2d32a1887/mushroom%20classifier/process.png)
 
 ---
 

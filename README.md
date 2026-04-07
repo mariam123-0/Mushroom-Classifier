@@ -41,6 +41,8 @@ Users can easily select mushroom characteristics from dropdown lists:
 ### 🔹 Result Display
 After submission, the prediction appears clearly at the bottom of the page showing whether the mushroom is edible or poisonous.
 
+![image alt](https://github.com/mariam123-0/Mushroom-Classifier-/blob/2fc7a16c6e9dd3170958983ae0583b90278520b2/mushroom%20classifier/output.png)
+
 ---
 
 ## 🚀 Features
